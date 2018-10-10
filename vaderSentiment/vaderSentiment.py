@@ -16,6 +16,7 @@ import math
 import string
 import requests
 import json
+from io import open
 from itertools import product
 from inspect import getsourcefile
 
